@@ -9,7 +9,7 @@
     "dist",
     "es"
   ],
-  "repository": "https://github.com/leadream/juuust-icon.git",
+  "repository": "https://github.com/madiodio/icons-jsx.git",
   "author": "leadream",
   "keywords": [
     "react",
@@ -21,9 +21,9 @@
     "design"
   ],
   "bugs": {
-    "url": "https://github.com/leadream/juuust-icon/issues"
+    "url": "https://github.com/madiodio/icons-jsx/issues"
   },
-  "homepage": "https://github.com/leadream/juuust-icon#readme",
+  "homepage": "https://github.com/madiodio/icons-jsx#readme",
   "scripts": {
     "generate": "sudo rm -rf src/icons && node bin/build.js",
     "build:bundle": "sudo rm -rf dist && rollup --config rollup.config.js",
