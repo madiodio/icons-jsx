@@ -1,5 +1,5 @@
 {
-  "name": "juuust-icon",
+  "name": "@madiodio/icons-jsx",
   "version": "0.1.29",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
