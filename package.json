@@ -1,5 +1,8 @@
 {
   "name": "@madiodio/icons-jsx",
+  "publishConfig": {
+    "access": "public"
+  },
   "version": "0.1.30",
   "description": "Icon automation workflow with Figma",
   "main": "dist/index.js",
